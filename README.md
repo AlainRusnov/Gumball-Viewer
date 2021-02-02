@@ -7,4 +7,6 @@ https://ghost-dev-28501.web.app
 
 Turn cam on - Drop a pic !
 
+Users can post a temporary pic to communal feed.
+
 React app w/ redux, firebase auth and firestore
